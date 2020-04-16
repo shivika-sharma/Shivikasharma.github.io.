@@ -24,12 +24,22 @@ youtube_username:
 # about_title: About Me
 about_profile_image: 
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, I am a Software enginner by profession. I love my job as Qaulity analyst and enjoy doing is everyday. Apart from my porfessional work i love to write techincal blogpost for website and startups in order to build their brnad.
+  Recenetly i started collaborating with brands on Instagram for honest review of their products by blogposts.
+  
+  I am most skilled in: <mark>AWS</mark> and <mark>Writing Technical posts</mark>
 
 # Projects Section
 # projects_title: Projects
+
+layout: left 
+  name: Birla institute of technology and science (BITS, pilani)
+  dates: Date Range (eg. 2013 - 2015)
+  qualification: Qualifications (Master's in Software Systems)
+  quote: >
+    Bits Pilani has given me a wide opportunity to interact with the Engineers and professors on a national level. 
+    With the exposure and training in every day interactions has made me a better qualified professional at international standards.
+  description:
 
 # Experience Section
 # experience_title: Experience
@@ -40,11 +50,12 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in Testing webproducts and software engineering some of my other interests and hobbies are:
+   - Travelling
+   - Reading
+   - Trying new skills on Skillshare
+   - Financial planning
+   - [Our lovestory ](https://www.youtube.com/watch?v=WpWX46B9kmg)
 
 # Footer
 footer_show_references: true
